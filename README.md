@@ -20,4 +20,3 @@
 - Přidejte někam odkaz na externí stránku
 
 
-ahoj
