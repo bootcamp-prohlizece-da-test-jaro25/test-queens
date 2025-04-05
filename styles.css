@@ -13,6 +13,11 @@ h1, h2 {
     color: #3e322c;
 }
 
+h1 {
+    font-size:70px;
+    color: #5a4a42;
+}
+
 /* Header */
 header {
     background: #f5ebe0;
